@@ -1,0 +1,75 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+#top1{
+    text-align: center;
+    font-size: 50px;
+    color:crimson
+}
+#top2{
+    text-align: center;
+    font-size: 30px;
+    color:black;
+
+}
+#top3{
+    text-align: center;
+    font-size: 50px;
+    color:crimson
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+#content img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;;
+}
+#food{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 63vh;
+}
+nav{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+}
+#maincontent{
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-top: 20px;
+    background-color: yellow;
+    color: black;
+    border:3px solid black;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    cursor:pointer;
+    background-color: green;
+}
+#f1{
+
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
+#f2{
+    color: blueviolet;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
